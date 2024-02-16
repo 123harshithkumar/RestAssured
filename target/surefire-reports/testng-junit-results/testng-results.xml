@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-11T22:29:43 IST" name="Surefire suite" finished-at="2023-12-11T22:29:52 IST" duration-ms="9804">
+    <groups>
+    </groups>
+    <test started-at="2023-12-11T22:29:43 IST" name="Surefire test" finished-at="2023-12-11T22:29:52 IST" duration-ms="9804">
+      <class name="restFramework.restFramework.AppTest">
+        <test-method signature="shouldAnswerWithTrue()" started-at="2023-12-11T22:29:52 IST" name="shouldAnswerWithTrue" finished-at="2023-12-11T22:29:52 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- restFramework.restFramework.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
